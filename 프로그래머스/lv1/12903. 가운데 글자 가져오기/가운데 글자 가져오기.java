@@ -11,7 +11,7 @@ class Solution {
     // String s
     //
     // 계산
-    //
+    //substring
     //
     // output
     // 가운데 글자 반환
